@@ -1,1 +1,4 @@
 # Ecommerce_sales_Dataset
+
+This project presents an interactive E-commerce Sales Dashboard designed to analyze sales performance across categories, regions, stores, and years.
+The dashboard helps stakeholders understand historical performance, identify trends, predict future outcomes, and make data-driven business decisions.
